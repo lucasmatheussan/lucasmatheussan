@@ -35,19 +35,6 @@
 
 ---
 
-### 💼 Experience
-
-| Company | Role | Period |
-|---|---|---|
-| **Glintt Next** | Software Engineer | Mar 2026 – present |
-| **Computer Vision AI Startup** | Co-Founder | 2025 – present |
-| **Agentic AI Startup** | Co-Founder | 2025 – present |
-| **SIBS** | Software Engineer | Nov 2023 – Mar 2026 |
-| **Adentis** *(client: SIBS)* | Software Engineer | Jun 2021 – Nov 2023 |
-| **Accenture** *(Itaú Bank, Brazil)* | Software Engineer | Jul 2020 – May 2021 |
-
----
-
 ### 🏆 Awards
 
 > 🥇 **Honorable Mention — Brazilian Computer Society (SBC), CSBC 2018**  
